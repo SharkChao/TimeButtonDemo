@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TimeButton">
+        <attr name="tbcountTime" format="string"></attr>
+        <attr name="tbintervalTime" format="string"></attr>
+        <attr name="tbTimeingBackground" format="reference|integer"></attr>
+        <attr name="tbTimedBackground" format="reference|integer"></attr>
+    </declare-styleable>
+</resources>
